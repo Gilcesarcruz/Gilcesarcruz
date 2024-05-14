@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... html, css, javascript
 - 💞️ I’m looking to collaborate on ... more about coding with the help of all of you. again i want to be the best i can be, learn everything i can to get hired on.
 - i want to work on projects to learn more and build a portfolio
-- 📫 How to reach me ... my email- diamondrush.gc@gmail.com
+- 📫 How to reach me ... my email- gilcesarcruz@gmail.com
 
 <!---
 Gilcesarcruz/Gilcesarcruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
